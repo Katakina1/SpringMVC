@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/spring-02-hellomvc/target/
+/springmvc-011-servlet/target/

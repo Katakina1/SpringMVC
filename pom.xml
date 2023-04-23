@@ -12,6 +12,7 @@
         <module>springmvc-011-servlet</module>
         <module>spring-02-hellomvc</module>
         <module>springmvc-03-annotation</module>
+        <module>springmvc-04-controller</module>
     </modules>
     <!--在build中配置resources,来防止我们资源导出失败的问题-->
     <build>

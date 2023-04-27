@@ -11,6 +11,12 @@
     <title>Title</title>
 </head>
 <body>
-
+<span>
+    ${username}
+</span>
+<p>
+    <a href="${pageContext.request.contextPath}/user/goLogin" >注销</a>
+</p>
+hello,this is main
 </body>
 </html>

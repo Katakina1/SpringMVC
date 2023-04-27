@@ -12,6 +12,7 @@
         <module name="springmvc-03-annotation" />
         <module name="springmvc-07-intercepter" />
         <module name="springmvc-04-controller" />
+        <module name="springmvc-08-file" />
         <module name="springmvc-011-servlet" />
         <module name="spring-02-hellomvc" />
       </profile>
